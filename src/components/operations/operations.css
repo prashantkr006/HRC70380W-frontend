@@ -1,0 +1,16 @@
+.operations__container {
+    background-color: var(--color-bg-variant);
+    padding: 1rem 0 1rem 1rem;
+    display: flex;
+}
+
+.refresher {
+    margin-left: 1rem;
+    padding: 0 1rem;
+}
+
+.searchBar {
+    border-radius: 0.4rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+}

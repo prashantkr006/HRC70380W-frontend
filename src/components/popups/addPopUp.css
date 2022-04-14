@@ -1,0 +1,14 @@
+.Dialog__container {
+    display: grid;
+    column-gap: 50px;
+    row-gap: 20px;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+  }
+  .Dialog__item {
+    background-color: var(--color-white);
+    border: 1px solid rgba(205, 205, 205, 0.8);
+    border-radius: 0.4rem;
+    font-size: 30px;
+    text-align: center;
+  }

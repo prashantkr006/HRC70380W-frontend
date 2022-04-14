@@ -1,0 +1,14 @@
+.Grid__container-edit {
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;
+    grid-template-columns: auto auto;
+    padding: 10px;
+  }
+  .Grid__item-edit {
+    background-color: var(--color-white);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 0.4rem;
+    font-size: 30px;
+    text-align: center;
+  }

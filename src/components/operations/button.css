@@ -1,0 +1,6 @@
+.btn_container {
+    background-color: var(--color-bg-variant);
+    /* padding-bottom: 0px; */
+    width: 100%;
+    padding-top: 1rem;
+}

@@ -1,0 +1,30 @@
+ul {
+    height: 36px;
+    line-height: 36px;
+    font-size: 20;
+    border: 1px solid var(--color-primary);
+    width: max-content;
+    border-radius: 0.4rem;
+}
+
+.option__container {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+.active {
+    background-color: var(--color-primary);
+    border-radius: 0.2rem;
+}
+li a{
+    display: block;
+    padding: 0 28px;
+    color: var(--color-white);
+}
+li:last-child {
+    border-right: none;
+}
+
+a:hover {
+    background-color: var(--color-primary);
+}
